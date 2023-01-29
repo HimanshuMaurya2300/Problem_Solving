@@ -1,2 +1,2 @@
-# Problem_Solving_LB
+# Problem_Solving
 Solving common problems that asked in Interview
